@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889639386311",
+    "project_id": "gupsup-udemyversion",
+    "storage_bucket": "gupsup-udemyversion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889639386311:android:dca1db20a098f6ff1212e2",
+        "android_client_info": {
+          "package_name": "com.appeteria.training.gupshup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889639386311-9nov2e3tu5o9fu1okoroofin2tnn7kf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWav0nS-dEOcA6Mdj3420qhnG4f3qC3IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889639386311-9nov2e3tu5o9fu1okoroofin2tnn7kf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
